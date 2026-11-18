@@ -1,0 +1,127 @@
+﻿ID_Pelanggan;Nama;Jenis_Kelamin;Usia;Kota;Kategori_Produk;Metode_Pembayaran;Harga_Satuan;Jumlah_Pembelian;Total_Belanja;Berat_Paket;Satuan_Berat;Durasi_Pengiriman;Tingkat_Kepuasan;Bulan_Transaksi;Beli_Ulang
+PLG-001;Rani Pratama;Perempuan;27;Sidoarjo ;Kerajinan;COD;280000;1;280000;2310;gram;3;sedang;Jan;Tdk
+PLG-002;Maulana Anggraini;P;17;Malang;Kecantikan;COD;65000;2;130000;0,78;kg;-3;sedang;Feb;Tidak
+PLG-003;Laila Saputra;Laki-laki;3000;Gresik;Kecantikan;E-Wallet;;1;200000;560;gram;;Tinggi;Mar;Ya
+PLG-004;Laila Maulidia;Laki-laki;26;Surabaya;makanan;E-Wallet;95000;2;;1,52;kg;2;Tinggi;Apr;ya
+PLG-005;Aulia Utami;Perempuan;46;Surabaya;Fashion;Transfer Bank;;1;335000;1270;gram;2;TINGGI;Jun;Ya
+PLG-006;Hana Kusuma;L;18;Surabaya;Fashion;E-Wallet;180000;5;900000;0,91;kg;1;Tinggi;Jun;Tidak
+PLG-007;Tika Firmansyah;Perempuan;30;Sidoarjo;Makanan;Transfer Bank;105000;40;4200000;2770;gram;4;TINGGI;Feb;Ya
+PLG-008;Yoga Permana;Perempuan;22;malang;Fashion;E-Wallet;100000;2;200000;0,59;kg;4;Tinggi;Jun;Tidak
+PLG-009;Vina Saputra;Laki-laki;26; Gresik;Fashion;;350000;4;1400000;1,02;kg;4;Rendah;Mei;Tidak
+PLG-010;Jihan Saputra;Perempuan;37;Sidoarjo;Fashion;E-Wallet;135000;1;135000;1,06;kg;2;;Mei;tidak
+PLG-011;Aulia Ramadhan;Perempuan;;Lamongan;Kecantikan;E-Wallet;110000;0;220000;0,92;kg;6;Rendah;Jun;Ya
+PLG-012;Oktaviani Firmansyah;Laki-laki;32;Sidoarjo;Fashion;;100000;2;200000;0,41;kg;4;;Jan;Ya
+PLG-013;Bagas Rahmawati;Perempuan;33;Sidoarjo;Fashion;Cod;305000;3;;1,27;kg;4;Sedang;Apr;Tidak
+PLG-014;Vina Kusuma;L;34;Malang;Kecantikan;Transfer Bank;135000;3;405000;720;gram;4;Sedang;Jan;Ya
+PLG-014;Vina Kusuma;L;34;Malang;Kecantikan;Transfer Bank;135000;3;405000;720;gram;4;Sedang;Jan;Ya
+PLG-015;Rani Syahputra;Laki-laki;17;Surabaya;elektronik;Transfer Bank;3380000;3;10140000;4,41;kg;3;Tinggi;Jan;Ya
+PLG-016;Hana Permana;Laki-laki;32;Sidoarjo;Kerajinan;Transfer Bank;100000;3;300000;2,59;kg;3;Sedang;Feb;Ya
+PLG-017;Lestari Aditya;L;28;Sidoarjo;Makanan;Transfer Bank;110000;2;220000;1,63;kg;4;Sedang;Jun;Ya
+PLG-018;Dimas Susanto;Perempuan;32;Malang;Kecantikan;Transfer Bank;110000;1;110000;820;gram;3;Tinggi;Apr;Tidak
+PLG-019;Tika Wulandari;;36;Surabaya ;Kecantikan;Ewallet;80000;1;80000;0,36;kg;2;Sedang;Apr;Tidak
+PLG-020;Maulana Maulidia;Perempuan;32;Sidoarjo;elektronik;Transfer Bank;2385000;1;2385000;1,03;kg;2;Tinggi;Jan;Ya
+PLG-021;Kevin Syahputra;P;35;Sidoarjo;Kecantikan;transfer bank;35000;4;140000;0,77;kg;3;Tinggi;Feb;Ya
+PLG-022;Eko Kusuma;Perempuan;82;Gresik;Makanan;E-Wallet;70000;1;70000;;kg;4;Sedang;Jan;ya
+PLG-023;Aulia Saputra;Laki-laki;33;Surabaya;Makanan;E-Wallet;65000;4;260000;2,57;kg;2;Tinggi;Jun;Tidak
+PLG-024;Rani Maharani;Perempuan;28;Gresik;Kerajinan;Transfer Bank;65000;1;65000;2,01;kg;2;Tinggi;Mar;Tidak
+PLG-025;Satria Rahmawati;Perempuan;28;Lamongan;Elektronik;COD;;1;1660000;3,88;kg;6;Rendah;Mei;Tidak
+PLG-026;Eko Wijaya;Pria;39;Surabaya;Fashion;;160000;1;160000;;kg;2;Tinggi;Jan;Ya
+PLG-027;Yoga Nugroho;Perempuan;25;Surabaya;Makanan;Ewallet;40000;2;80000;1220;gram;;Tinggi;Jun;Ya
+PLG-028;Salsa Permana;Laki-laki;24;Gresik;Fashion;transfer bank;330000;1;330000;1,22;kg;90;Tinggi;Apr;Ya
+PLG-029;Lestari Handayani;Wanita;18;Surabaya;Kecantikan;E-Wallet;160000;2;320000;0,97;kg;;Tinggi;Apr;Ya
+PLG-030;Citra Maharani;Perempuan;27;Surabaya;Elektronik;Transfer Bank;750000;3;2250000;2,28;kg;1;Tinggi;Mei;Ya
+PLG-031;Rizky Saputra;Perempuan;38; Lamongan;Fashion;COD;285000;2;570000;630;gram;3;Sedang;Feb;Ya
+PLG-032;Dimas Lestari;Perempuan;17;surabaya;Kecantikan;E-Wallet;110000;2;220000;0,63;kg;3;Tinggi;Mar;Iya
+PLG-033;  Fitri Ramadhan;Laki-laki;31;Sidoarjo;Kecantikan;Transfer Bank;160000;5;800000;0,89;kg;3;Tinggi;Apr;Ya
+PLG-034;Satria Syahputra;Perempuan;17;Surabaya;Kerajinan;E-Wallet;185000;1;185000;2590;gram;1;Tinggi;Mei;Tidak
+PLG-035;Salsa Nugroho;Laki-laki;23; Sidoarjo;Makanan;COD;80000;2;160000;2,93;kg;2;Rendah;Apr;Tidak
+PLG-036;Dewi Wulandari;Perempuan;150;Surabaya;Elektronik;;18000000;5;90000000;4670;gram;3;Rendah;Apr;Tidak
+PLG-037;Laila Firmansyah;Wanita;25;Malang;Fashion;Cod;155000;2;310000;1,15;kg;5;Sedang;Apr;Iya
+PLG-038;Jihan Utami;Perempuan;;Gresik;Fashion;Transfer Bank;305000;2;610000;1,15;kg;3;Tinggi;Feb;ya
+PLG-039;Laila Susanto;Laki-laki;26;Surabaya;Makanan;COD;80000;2;160000;950;gram;3;;Jan;ya
+PLG-040;Anisa Aditya;Perempuan;78;Malang;Makanan;COD;80000;1;80000;1,35;kg;5;Tinggi;Mei;Ya
+PLG-041;Maulana Setiawan;Laki-laki;41;Sidoarjo;Kerajinan;E-Wallet;125000;3;375000;3,32;kg;2;Sedang;Feb;Tidak
+PLG-042;Fajar Syahputra;Perempuan;41;Gresik;Fashion;E-Wallet;145000;4;580000;0,78;kg;2;Tinggi;Mar;Tidak
+PLG-043;Fajar Anggraini;Laki-laki;34;Surabaya;Fashion;E-Wallet;185000;4;740000;570;gram;3;Sedang;Feb;Tidak
+PLG-044;Lestari Susanto;P;32;Malang;Kerajinan;COD;60000;-2;120000;630;gram;4;Tingi;Mei;Ya
+PLG-045;Eko Permana;Laki-laki;37;Gresik;Kecantikan;E-Wallet;40000;2;80000;0,3;kg;3;Rendah;Jan;Ya
+PLG-046;;L;20;Surabaya;Kecantikan;E-Wallet;175000;3;525000;0,62;kg;1;Tinggi;Mar;Ya
+PLG-047;Dimas Wijaya;Laki-laki;21;LAMONGAN;Kerajinan;COD;160000;5;800000;3730;gram;6;Rendah;Mar;Tidak
+PLG-048;Maulana Rahmawati;Laki-laki;39;Surabaya;Kecantikan;Transfer Bank;190000;5;950000;0,45;kg;1;Tinggi;Apr;Ya
+PLG-049;Dimas Maulidia;Laki-laki;36;Surabaya;Makanan;COD;25000;1;25000;;kg;1;Tinggi;Mar;Tidak
+PLG-050;Fajar Maharani;Laki-laki;36;Gresik;Kerajinan;E-Wallet;310000;5;1550000;860;gram;3;;Feb;Ya
+PLG-051;Oktaviani Handayani;L;31;surabaya;Makanan;COD;35000;3;105000;2,56;kg;2;Tinggi;Mei;Ya
+PLG-052;Satria Saputra;P;22;Surabaya;Makanan;Transfer Bank;105000;4;420000;2,82;kg;2;;Mei;ya
+PLG-053;Anisa Syahputra;Perempuan;20; Sidoarjo;Kecantikan;E-Wallet;230000;1;230000;0,55;kg;3;Sedang;Apr;Ya
+PLG-054;;Perempuan;37;Lamongan;Makanan;Cod;85000;5;425000;1,64;kg;4;Sedang;Mei;Tidak
+PLG-055;Lestari Kurniawan;L;38;Lamongan;Kerajinan;Transfer Bank;190000;3;570000;3,67;kg;7;Rendah;Mar;Tidak
+PLG-056;Tika Susanto;Perempuan;20;Surabaya;Makanan;E-Wallet;20000;1;20000;1,07;kg;3;Rendh;Apr;Ya
+PLG-057;Laila Santoso;Perempuan;23;MALANG;Fashion;;285000;2;;1,4;kg;3;Tinggi;Jan;Ya
+PLG-058;Zahra Prasetyo;Perempuan;28;Surabaya;Fashion;COD;230000;1;;;kg;1;;Apr;Tidak
+PLG-059;  Dimas Utami;Laki-laki;0;Malang;Makanan;COD;25000;3;75000;2,89;kg;5;sedang;Feb;Iya
+PLG-060;  Fitri Permana;Laki-laki;26;Surabaya;Kerajinan;COD;250000;2;500000;3,61;kg;;Tinggi;Jun;Ya
+PLG-061;Nadia Wulandari;Wanita;22;Sidoarjo;Kerajinan;E-Wallet;50000;2;100000;2,29;kg;4;Sedang;Feb;tidak
+PLG-062;Salsa Syahputra;Perempuan;37;Sidoarjo ;Makanan;E-Wallet;60000;60;3600000;2,2;kg;4;Sedang;Feb;Ya
+PLG-063;Jihan Pratama;Perempuan;34;Malang;Fashion;Transfer Bank;245000;3;735000;0,94;kg;5;Rendah;Jan;Ya
+PLG-064;Nadia Susanto;Perempuan;23;Lamongan;Elektronik;COD;24500000;1;24500000;2070;gram;4;Sedang;Jan;Ya
+PLG-065;Gilang Saputra;P;24;Surabaya;Fashion;Transfer Bank;155000;3;465000;1,49;kg;1;Tinggi;Feb;Tidak
+PLG-066;Rani Santoso;Laki-laki;38;Sidoarjo;Makanan;COD;40000;2;80000;0,56;kg;4;Tinggi;Feb;Ya
+PLG-067;Satria Anggraini;Perempuan;19;sidoarjo;Elektronik;Ewallet;1325000;1;1325000;1860;gram;4;Sedang;Mar;Tidak
+PLG-068;Rizky Firmansyah;Perempuan;27;Surabaya;Makanan;COD;;1;20000;2,82;kg;3;Sedang;Jan;Ya
+PLG-069;Oktaviani Hidayat;Laki-laki;33;Sidoarjo;Makanan;E-Wallet;115000;2;230000;2880;gram;2;Tinggi;Feb;Tidak
+PLG-070;Laila Wulandari;Perempuan;30;surabaya;Fashion ;transfer bank;315000;4;1260000;630;gram;2;Rendah;Jun;Tidak
+PLG-071;Wahyu Permana;Perempuan;36;Surabaya;Fashion;COD;240000;4;960000;-1,2;kg;1;Tinggi;Feb;Ya
+PLG-072;;Laki-laki;17;Gresik;Kecantikan;Transfer Bank;-50000;1;45000;0,83;kg;4;Tinggi;Jun;Ya
+PLG-073;Tika Rahmawati;Laki-laki;250;Gresik;Makanan ;Transfer Bank;25000;2;50000;2440;gram;2;Tinggi;Mei;tidak
+PLG-074;Wahyu Syahputra;Laki-laki;31;Sidoarjo;Kecantikan;COD;235000;4;940000;0,61;kg;4;Sedang;Jan;Ya
+PLG-075;Eko Rahmawati;P;32;Sidoarjo;Kecantikan;E-Wallet;55000;2;;0,45;kg;4;Sedang;Mar;Tidak
+PLG-075;Eko Rahmawati;P;32;Sidoarjo;Kecantikan;E-Wallet;55000;2;;0,45;kg;4;Sedang;Mar;Tidak
+PLG-076;Jihan Kusuma;Pria;34;Gresik;Fashion;E-Wallet;115000;4;460000;310;gram;3;Sedang;Jan;Ya
+PLG-077;Jihan Maulidia;Perempuan;20;Lamongan;Makanan;Transfer Bank;95000;2;190000;1410;gram;7;Sedang;Mar;Tidak
+PLG-078;Jihan Maharani;Perempuan;88;Surabaya;Makanan;Transfer Bank;45000;1;45000;1,44;kg;1;Tinggi;Mar;Ya
+PLG-079;Fajar Lestari;Laki-laki;33;Surabaya;Fashion;Transfer Bank;190000;2;380000;0,4;kg;;Sedang;Mei;Ya
+PLG-080;Aulia Wulandari;Perempuan;;Gresik;Fashion;COD;190000;2;380000;0,4;kg;3;Sedang;Mar;Tidak
+PLG-080;Aulia Wulandari;Perempuan;;Gresik;Fashion;COD;190000;2;380000;0,4;kg;3;Sedang;Mar;Tidak
+PLG-081;Hana Setiawan;Laki-laki;;Malang;Kecantikan;E-Wallet;185000;4;740000;0,34;kg;6;Sedang;Mei;Tidak
+PLG-082;Rani Nugroho;;30;Sidoarjo;Kecantikan;COD;135000;2;270000;0,54;kg;2;Tinggi;Apr;Ya
+PLG-083;Eko Lestari;;40;Surabaya;Makanan;E-Wallet;100000;1;100000;2440;gram;3;Rendah;Mei;Tidak
+PLG-084;Umar Pratama;Perempuan;29;Sidoarjo;Kerajinan;COD;225000;3;675000;2,52;kg;2;Tinggi;Feb;Ya
+PLG-085;Putra Wijaya;;31;Malang;Makanan;E-Wallet;45000;2;90000;1,85;kg;;Sedang;Apr;Ya
+PLG-086;Jihan Wulandari;Laki-laki;32;Malang;Kerajinan;COD;120000;2;240000;3,27;kg;4;Rendah;Jan;Tidak
+PLG-087;Zahra Kusuma;Laki-laki;;SURABAYA;Makanan;E-Wallet;95000;5;475000;2,62;kg;2;Tinggi;Jan;Ya
+PLG-088;Putra Kurniawan;Laki-laki;28;Surabaya;Makanan;transfer bank;;3;120000;1,6;kg;3;Rendh;Mei;Tdk
+PLG-088;Putra Kurniawan;Laki-laki;28;Surabaya;Makanan;transfer bank;;3;120000;1,6;kg;3;Rendh;Mei;Tdk
+PLG-089;Rani Ramadhan;Perempuan;35;Malang;Kecantikan;E-Wallet;165000;3;495000;650;gram;5;Rendah;Jun;Tidak
+PLG-090;Dewi Pratama;Pria;25;Malang;Kecantikan;Transfer Bank;160000;5;800000;0,93;kg;;Sedang;Jan;Tidak
+PLG-091;  Fajar Setiawan;Perempuan;29;Surabaya;Makanan;Transfer Bank;115000;3;345000;700;gram;3;Tinggi;Apr;Ya
+PLG-092;Vina Hidayat;Laki-laki;29;Sidoarjo;Kecantikan;Transfer Bank;50000;5;250000;0,65;kg;3;Sedang;Jan;Tidak
+PLG-093;Gilang Wijaya;Laki-laki;17;Surabaya ;Makanan;COD;35000;3;105000;2,44;kg;2;Tinggi;Jun;Ya
+PLG-094;Nadia Aditya;P;35;Gresik ;Kerajinan;Transfer Bank;280000;2;560000;1,94;kg;2;Sedang;Jan;tidak
+PLG-095;Fajar Hidayat;Perempuan;18;Surabaya;Kerajinan;COD;165000;1;165000;3,1;kg;1;Tinggi;Feb;Ya
+PLG-096;Citra Lestari;Laki-laki;32;Surabaya;Makanan;COD;30000;1;30000;2,6;kg;2;Tinggi;Mei;Ya
+PLG-097;Yoga Aditya;Perempuan;;SURABAYA;Kecantikan;Transfer Bank;225000;2;450000;790;gram;3;Rendah;Jan;Tdk
+PLG-098;Irfan Firmansyah;Laki-laki;26;Lamongan;Makanan;E-Wallet;90000;1;90000;1,84;kg;5;Sedang;Jan;Ya
+PLG-098;Irfan Firmansyah;Laki-laki;26;Lamongan;Makanan;E-Wallet;90000;1;90000;1,84;kg;5;Sedang;Jan;Ya
+PLG-099;;Perempuan;30;Sidoarjo;Kecantikan;E-Wallet;80000;1;80000;750;gram;2;Sedang;Jun;Ya
+PLG-100;Salsa Kusuma;Laki-laki;35;Surabaya;Kecantikan;E-Wallet;50000;3;150000;0,74;kg;1;Tinggi;Jan;Ya
+PLG-101;Wahyu Kurniawan;Laki-laki;36;Gresik;Kecantikan;E-Wallet;215000;3;645000;0,45;kg;3;Sedang;Feb;Tidak
+PLG-102;Bagas Pratama;Perempuan;26;Gresik;Kecantikan;E-Wallet;155000;55;8525000;0,12;kg;2;Tinggi;Jun;Ya
+PLG-103;Fajar Nugroho;Laki-laki;28;Sidoarjo;Fashion;;330000;1;330000;1440;gram;4;Tinggi;Jun;Ya
+PLG-104;Yoga Ramadhan;Laki-laki;22;Gresik;Elektronik;E-Wallet;1930000;2;3860000;2,76;kg;2;TINGGI;Jan;Ya
+PLG-105;Dimas Prasetyo;Laki-laki;17;Gresik;Kerajinan;E-Wallet;130000;2;260000;1,47;kg;4;Sedang;Mei;Tidak
+PLG-106;Umar Putri;Perempuan;;Surabaya;Makanan;E-Wallet;30000;2;60000;1,13;kg;3;sedang;Jun;Ya
+PLG-107;Citra Pratama;Perempuan;20;Sidoarjo;Makanan;COD;60000;1;60000;1,5;kg;3;;Feb;Tidak
+PLG-108;Zahra Putri;Laki-laki;23;Lamongan;Fashion ;Transfer Bank;265000;4;1060000;0,99;kg;5;Rendah;Apr;Ya
+PLG-109;Oktaviani Susanto;Laki-laki;32;Sidoarjo;Fashion;;75000;1;75000;0,92;kg;3;Sedang;Apr;Tidak
+PLG-110;Maulana Utami;Perempuan;18;Malang;Kerajinan;Transfer Bank;190000;2;380000;1,78;kg;3;Sedang;Mar;ya
+PLG-111;Nadia Rahmawati;Laki-laki;33; Surabaya;Fashion;E-Wallet;185000;2;370000;0,39;kg;1;Tinggi;Mar;Ya
+PLG-112;Hana Handayani;Laki-laki;22;Surabaya;Kerajinan;E-Wallet;;2;570000;3,93;kg;2;Tinggi;Mar;Ya
+PLG-113;Wahyu Kusuma;Perempuan;-25;Malang;Fashion;COD;130000;5;650000;0,32;kg;5;Rendah;Mei;Tidak
+PLG-113;Wahyu Kusuma;Perempuan;-25;Malang;Fashion;COD;130000;5;650000;0,32;kg;5;Rendah;Mei;Tidak
+PLG-114;Maulana Nugroho;Perempuan;;Sidoarjo;Makanan ;Transfer Bank;105000;1;105000;2800;gram;4;Tinggi;Jan;Tidak
+PLG-115;Lestari Maulidia;Laki-laki;22;Gresik;Fashion;;165000;1;165000;0,34;kg;4;Sedang;Apr;Ya
+PLG-116;Citra Firmansyah;Perempuan;31;Gresik;Kerajinan;E-Wallet;340000;1;340000;2,22;kg;4;Tinggi;Apr;Ya
+PLG-117;Dewi Aditya;L;40;Surabaya;Makanan;Transfer Bank;100000;3;300000;2460;gram;2;Tingi;Mei;Ya
+PLG-118;Maulana Kusuma;L;34;Sidoarjo;Makanan;E-Wallet;110000;2;220000;2,16;kg;3;Sedang;Mei;Ya
+PLG-119;Fitri Santoso;Laki-laki;33;Gresik;Makanan;E-Wallet;40000;4;160000;2,26;kg;4;Sedang;Feb;tidak
+PLG-120;;Perempuan;24;Gresik;Makanan;E-Wallet;105000;1;105000;0,74;kg;3;Tinggi;Mar;Tidak
