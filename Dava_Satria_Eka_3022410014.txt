@@ -1,0 +1,49 @@
+DESKRIPSI KASUS (DITERIMA DARI PARTNER)
+Analisis Perilaku Pembelian Ulang Pelanggan Toko Online UMKM
+
+Pemberi kasus : Dava Satria Eka
+Penerima      : Dinda
+Mata kuliah   : Data Mining (Tugas 1 - Data Preprocessing)
+
+1. LATAR BELAKANG
+Sebuah UMKM di Jawa Timur menjual produk fashion, makanan, elektronik,
+kerajinan, dan kecantikan melalui toko online. Data transaksi enam bulan
+(Januari-Juni) dikumpulkan dari beberapa sumber: catatan admin, formulir
+pesanan, dan data ekspedisi. Karena dicatat oleh banyak orang dengan satuan dan
+format yang berbeda, data belum siap dianalisis.
+
+2. TUJUAN ANALISIS
+a. Mengetahui faktor yang berhubungan dengan pembelian ulang pelanggan.
+b. Menyiapkan data agar siap dipakai untuk memprediksi pelanggan yang akan
+   melakukan pembelian ulang (variabel target: Beli_Ulang).
+
+3. DATASET
+Nama file : dataset_umkm_DavaSat.csv
+Jumlah    : 126 baris, 16 variabel
+Format    : CSV, pemisah titik-koma (;), desimal koma (,), UTF-8
+Pandas    : pd.read_csv("dataset_umkm_DavaSat.csv", sep=";", decimal=",",
+            encoding="utf-8-sig")
+
+4. KAMUS DATA
+No  Variabel            Tipe                Keterangan
+1   ID_Pelanggan        Kategorik (ID)      Kode unik pelanggan
+2   Nama                Kategorik           Nama pelanggan
+3   Jenis_Kelamin       Kategorik nominal   Laki-laki / Perempuan
+4   Usia                Numerik             Usia pelanggan (tahun)
+5   Kota                Kategorik nominal   Surabaya, Gresik, Sidoarjo, Malang, Lamongan
+6   Kategori_Produk     Kategorik nominal   Fashion, Makanan, Elektronik, Kerajinan, Kecantikan
+7   Metode_Pembayaran   Kategorik nominal   Transfer Bank, COD, E-Wallet
+8   Harga_Satuan        Numerik             Harga per unit (Rupiah)
+9   Jumlah_Pembelian    Numerik             Jumlah unit dibeli
+10  Total_Belanja       Numerik             Harga_Satuan x Jumlah_Pembelian (Rupiah)
+11  Berat_Paket         Numerik             Berat paket (satuan pada kolom Satuan_Berat)
+12  Satuan_Berat        Kategorik           kg atau gram
+13  Durasi_Pengiriman   Numerik             Lama pengiriman (hari)
+14  Tingkat_Kepuasan    Kategorik ordinal   Rendah < Sedang < Tinggi
+15  Bulan_Transaksi     Kategorik           Jan, Feb, Mar, Apr, Mei, Jun
+16  Beli_Ulang          Kategorik (target)  Ya / Tidak
+
+5. CATATAN
+Data memiliki masalah kualitas yang perlu ditemukan dan ditangani sendiri
+melalui eksplorasi data (statistik deskriptif dan visualisasi). Variabel numerik
+dan kategorik sama-sama memiliki nilai kosong (missing value).
